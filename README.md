@@ -1,4 +1,0 @@
-guayaba
-=======
-
-guayaba page
